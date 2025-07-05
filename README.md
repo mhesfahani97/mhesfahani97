@@ -22,13 +22,5 @@
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 mhesfahani97@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mhesfahani97)  
-- 💼 [GitHub Portfolio](https://github.com/mhesfahani97)
-
----
-
 > “Automate what’s repetitive. Secure what’s valuable. Monitor what matters.”
 
