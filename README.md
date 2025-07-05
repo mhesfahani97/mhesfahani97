@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Hossein Esfahani
 
-<!--
-**mhesfahani97/mhesfahani97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📦 Projects & Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Interview Tasks
+- [`abalon_cloud-2024_may`](https://github.com/mhesfahani97/abalon-cloud-devops)
+- [`lifeweb-2025_jun`](https://github.com/mhesfahani97/my-devops-project)
+
+### 🎓 Training Journey
+- [`DigiNext_DevOps_BootCamp_1-2023_jul`](https://github.com/mhesfahani97/DigiNext-DevOps-BootCamp)
+- [`DigiNext_DevOps_BootCamp_2-2023_oct`](https://github.com/mhesfahani97/DigiNext-DevOps-BootCamp-Completion)
+- [`Arvan_Academy-2025_mar`](https://github.com/mhesfahani97/Arvan-Academy)
+
+---
+
+## 📚 Education
+
+- 🎓 **M.Sc. in Electronic Engineering** – Iran University of Science and Technology (2021–2025)
+- 🎓 **B.Sc. in Electronics Engineering** – Urmia University of Technology (2016–2020) 
+
+---
+
+## 📫 Connect with Me
+
+- 📧 mhesfahani97@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mhesfahani97)  
+- 💼 [GitHub Portfolio](https://github.com/mhesfahani97)
+
+---
+
+> “Automate what’s repetitive. Secure what’s valuable. Monitor what matters.”
+
