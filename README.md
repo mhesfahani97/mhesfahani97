@@ -17,8 +17,9 @@
 
 ## 📚 Education
 
-- 🎓 **M.Sc. in Electronic Engineering** – Iran University of Science and Technology (2021–2025)
-- 🎓 **B.Sc. in Electronics Engineering** – Urmia University of Technology (2016–2020) 
+- 🎓 **M.Sc. in Electronic Engineering** – Iran University of Science and Technology
+  - Master's Thesis: AI-Based Detection of Security Attacks to IoT Network Layer
+- 🎓 **B.Sc. in Electronics Engineering** – Urmia University of Technology 
 
 ---
 
