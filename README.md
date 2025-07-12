@@ -7,6 +7,7 @@
 ### 🔎 Interview Tasks
 - [`abalon_cloud-2024_may`](https://github.com/mhesfahani97/abalon-cloud-devops)
 - [`lifeweb-2025_jun`](https://github.com/mhesfahani97/my-devops-project)
+- [`AI-Medic_jul`](https://github.com/mhesfahani97/technical-devops)
 
 ### 🔎 Interview Questions
 - [***_company-2025_may](https://github.com/mhesfahani97/devops_interview-2025_may/tree/main)
