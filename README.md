@@ -10,7 +10,7 @@
 - [`AI_Medic-2025_jul`](https://github.com/mhesfahani97/technical-devops)
 
 ### 🔎 Interview Questions
-- [***_company-2025_may](https://github.com/mhesfahani97/devops_interview-2025_may/tree/main)
+- [some_company-2025_may](https://github.com/mhesfahani97/devops_interview-2025_may/tree/main)
 
 ### 🎓 Training Journey
 - [`DigiNext_DevOps_BootCamp_1-2023_jul`](https://github.com/mhesfahani97/DigiNext-DevOps-BootCamp)
